@@ -1,26 +1,72 @@
 [
   {
-    "name": "Biodance Bio-Collagen Real Deep Mask (10-Pack)",
-    "retail": 19.99,
-    "landed": 10.30,
-    "profit": 8.49,
-    "score": 42,
-    "url": "https://shop.tiktok.com/us/k/best-selling-sheet-mask"
+    "Product": "Megelin LED Light Therapy Mask",
+    "Category": "Beauty Tech",
+    "Cost": 180.00,
+    "Retail": 450.00,
+    "Trust_Score": 98
   },
   {
-    "name": "4K Mini Projector WiFi Android 11 Portable Home Theater",
-    "retail": 49.99,
-    "landed": 34.40,
-    "profit": 12.59,
-    "score": 5,
-    "url": "https://shop.tiktok.com/us/pdp/2026-upgraded-mini-projector-4k-1080p-wifi-6-dual-control/1732051530508309062"
+    "Product": "HY320 Mini 180° Projector",
+    "Category": "Home Tech",
+    "Cost": 42.50,
+    "Retail": 98.00,
+    "Trust_Score": 95
   },
   {
-    "name": "4K Mini Projector WiFi Bluetooth 1080P HD 200 ANSI Lumen",
-    "retail": 89.99,
-    "landed": 60.50,
-    "profit": 24.09,
-    "score": 29,
-    "url": "https://shop.tiktok.com/us/pdp/mini-projector-wifi-bluetooth-1080p-hd-200-ansi-lumen-4k-input/1732086330635948981"
+    "Product": "Rhythmic Breathing Sleep Koala",
+    "Category": "Wellness",
+    "Cost": 12.80,
+    "Retail": 39.99,
+    "Trust_Score": 92
+  },
+  {
+    "Product": "Magnetic Water Bottle Gym Bag",
+    "Category": "Fitness",
+    "Cost": 6.98,
+    "Retail": 34.99,
+    "Trust_Score": 88
+  },
+  {
+    "Product": "Self-Cleaning Ionic Hairbrush",
+    "Category": "Beauty",
+    "Cost": 1.79,
+    "Retail": 24.50,
+    "Trust_Score": 91
+  },
+  {
+    "Product": "Rain Cloud Aroma Diffuser",
+    "Category": "Home Decor",
+    "Cost": 16.70,
+    "Retail": 54.99,
+    "Trust_Score": 94
+  },
+  {
+    "Product": "AI Auto-Tracking Phone Mount",
+    "Category": "Tech",
+    "Cost": 14.20,
+    "Retail": 45.00,
+    "Trust_Score": 89
+  },
+  {
+    "Product": "Heated Eye Massager w/ Bluetooth",
+    "Category": "Wellness",
+    "Cost": 22.00,
+    "Retail": 75.00,
+    "Trust_Score": 93
+  },
+  {
+    "Product": "Automatic Pet Water Fountain",
+    "Category": "Pet Tech",
+    "Cost": 18.50,
+    "Retail": 59.99,
+    "Trust_Score": 96
+  },
+  {
+    "Product": "Botanical Building Block Bouquet",
+    "Category": "Gifts",
+    "Cost": 9.40,
+    "Retail": 32.00,
+    "Trust_Score": 90
   }
 ]
