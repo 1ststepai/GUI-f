@@ -1,0 +1,3 @@
+Orchestrator: Run the following sequence in order:
+1. Run @shop_scanner.txt (To find the products).
+2. Run @social_agent.txt (To post the results).

@@ -1,0 +1,6 @@
+Orchestrator: I need the visual assets for the 'Jellyfish Crystal Ball Lamp' from 1688.
+1. Browse: Go to 1688.com and search '水晶球 水母'.
+2. Identify: Find a supplier with a 'Return Rate' > 30%.
+3. Extract: Find the URL for the main product video (usually the first media element).
+4. Download: Run the PowerShell script 'C:\1stStepAI\download_factory_vid.ps1' with the found URL.
+5. Discord: Post the video file and the sourcing link to my Discord #deals channel.

@@ -1,0 +1,6 @@
+Orchestrator: I am automating @1stStepdotAI. 
+1. Use the browser tool to find the top 5 'AI Agent' videos on YouTube and TikTok from the last 7 days with >300k views.
+2. For the #1 video, find the transcript and identify the 'Retention Peaks' (where the most interesting thing happened).
+3. Create a folder called 'Viral_Research'. 
+4. Inside, create a 'Script_Remix.md' that adapts that peak into a 45-second Long-form script and 3 Short-form hooks.
+5. Format the final script so it can be read by an AI Voice generator without any 'AI-isms' (no "In the world of...", no "Imagine a future...").

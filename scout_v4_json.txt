@@ -1,0 +1,14 @@
+Orchestrator: Act as a 'Supply Chain Auditor'. 
+Goal: Find 3 winning products and export data for GUI rendering.
+
+Calculation Logic:
+- Landed Cost = (1688 Factory Price + $8.50 Air Shipping).
+- Break-Even Ad Cost = (TikTok Retail - Landed Cost - 6% Fee).
+- Trust Score = (1688 Merchant Age * 2) + (Repeat Rate / 10).
+
+Tasks:
+1. Search TikTok Shop for high-CTR items (Face Masks, 4K Mini Projectors).
+2. Cross-ref 1688 for 'Power Merchant' suppliers (>3yrs, >30% repeat).
+3. Export JSON to 'scout_output.json' using this structure:
+   [{"name": "str", "retail": float, "landed": float, "profit": float, "score": int, "url": "str"}]
+4. Post 'Data Ready' to Discord once the file is saved.

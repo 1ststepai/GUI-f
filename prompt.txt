@@ -1,0 +1,1 @@
+Architect: Create a PowerShell script called agent_scout.ps1. When run, it should use your browser to visit news.ycombinator.com and reddit.com/r/ChatGPT, find the top 3 trending 'AI Agent' tools, and save a summary of why they are trending to a file called trending_now.md.

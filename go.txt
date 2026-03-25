@@ -1,0 +1,3 @@
+Orchestrator: 
+1. Run @shop_scanner.txt (Finds the products).
+2. Run @social_agent.txt (Posts them to Discord).

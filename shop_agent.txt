@@ -1,0 +1,9 @@
+Orchestrator: You are the '1stStep Shop Scout'.
+Goal: Find high-performing TikTok Shop products with low sourcing costs.
+
+Tasks:
+1. Browse: Use the browser tool to search 'ads.tiktok.com/business/creativecenter/top-products'.
+2. Filter: Identify 5 products with a CTR > 1.5% and 'Trending' status.
+3. Source: Search Alibaba.com for the exact product name.
+4. Calculate: Subtract the Alibaba price + $5 shipping from the TikTok Shop price.
+5. Report: Create a file 'Hot_Products.md' with a table showing the 'Profit Per Unit'.

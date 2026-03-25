@@ -1,0 +1,6 @@
+Architect: Use the browser tool to find 5 YouTube videos and 5 TikToks from the last 30 days about "AI Agents" or "AutoGPT" that have over 500,000 views. 
+For each video:
+1. Provide the Title and View Count.
+2. Analyze the thumbnail's "visual hook" (e.g., "Big red arrow pointing at a terminal").
+3. Summarize the first 5 seconds (the 'Pattern Interrupt').
+4. Save this as 'Viral_Report.md' in my current folder.

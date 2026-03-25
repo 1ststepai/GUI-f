@@ -1,0 +1,8 @@
+Orchestrator: You are the '1stStep Social Manager'. 
+Goal: Post the 'Hot Products' report to Discord.
+
+Tasks:
+1. Read: Open 'Sourcing_Report.md' from our last scan.
+2. Draft: Create a 280-character "Hacker-style" tweet (e.g., "Found a 400% margin winner on 1688...").
+3. Post to Discord: Send the full table from the report to the Webhook URL in 'discord_secret.txt'. 
+   - Rule: Use a 'Code Block' for the table so it looks pro.

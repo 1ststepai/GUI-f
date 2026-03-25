@@ -1,0 +1,5 @@
+Architect: I have 0 minutes to edit. 
+1. Research: Find one "AI Agent" breakthrough from the last 24 hours.
+2. Visual Script: Write a 45-second script. 
+3. Formatting: Output the script in BIG BOLD ALL-CAPS inside a code block. 
+(I will record my screen scrolling through this block so viewers can read it like a teleprompter.)
